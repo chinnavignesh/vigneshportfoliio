@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vigneshportfoliio/static/css/main.661e766d.css",
+    "main.js": "/vigneshportfoliio/static/js/main.7d36ee74.js",
+    "static/js/592.1b92a895.chunk.js": "/vigneshportfoliio/static/js/592.1b92a895.chunk.js",
+    "index.html": "/vigneshportfoliio/index.html",
+    "main.661e766d.css.map": "/vigneshportfoliio/static/css/main.661e766d.css.map",
+    "main.7d36ee74.js.map": "/vigneshportfoliio/static/js/main.7d36ee74.js.map",
+    "592.1b92a895.chunk.js.map": "/vigneshportfoliio/static/js/592.1b92a895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.661e766d.css",
+    "static/js/main.7d36ee74.js"
+  ]
+}
